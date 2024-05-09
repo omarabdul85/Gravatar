@@ -2,6 +2,19 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
+    <PackageId>GravatarExtension</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Omar Abdul Rahman</Authors>
+    <Company>Omar</Company>
+    <PackageDescription>Extensions for Gravatar</PackageDescription>
+    <Description>Extensions for Gravatar</Description>
+    <RepositoryUrl>https://github.com/omarabdul85/Gravatar</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/omarabdul85/Gravatar</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Gravatar</PackageTags>
+    <Title>Gravatar Extensions</Title>
+    <Summary>Extensions for Gravatar</Summary>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
